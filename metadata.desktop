@@ -1,12 +1,16 @@
 [Desktop Entry]
 Name=Avalon-Aurorae
-Comment=Avalon-Aurorae
+Comment=Avalon Window Decoration
 X-KDE-PluginInfo-Author=xkain
-X-KDE-PluginInfo-Email=avalon@gmail.com
-X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Name=Avalon-Aurorae
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Email=xkain123@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-blur=false
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Avalon-Aurorae
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/xkain/Avalon-Aurorae
+
+
+
+
