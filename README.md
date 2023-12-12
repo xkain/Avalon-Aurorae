@@ -1,5 +1,6 @@
 # Avalon-Aurorae
- Aurorae theme  for KDE Plasma
+ Aurorae theme for KDE Plasma
 
 
- ![Screenshot_20231210_211314](https://github.com/xkain/Avalon-Aurorae/assets/93977698/e04e20ca-8260-4728-a892-4cbfb20e443e)
+ ![Screenshot_20231212_151546](https://github.com/xkain/Avalon-Aurorae/assets/93977698/803dcc95-30bf-4f51-a08d-9f88ffb23950)
+
