@@ -11,6 +11,8 @@ TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=true
 Animation=0
+FollowsColorScheme=true
+
 
 [Layout]
 BorderBottom=0
